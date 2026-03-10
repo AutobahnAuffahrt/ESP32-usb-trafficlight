@@ -1,0 +1,33 @@
+# --- PlatformIO ---
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# PlatformIO Core cache (optional)
+.platformio/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.env/
+.github/
+
+# --- Local tooling ---
+.deepeval/
+
+# --- VS Code ---
+.vscode/
+
+# --- OS / Tools ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Logs / Temp ---
+*.log
+*.tmp
