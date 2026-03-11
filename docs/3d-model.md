@@ -4,9 +4,9 @@ Dieses Projekt nutzt (optional) ein 3D‑druckbares Ampel-/Gehäusemodell von **
 
 ## Quelle (Thingiverse)
 
-- Thingiverse: https://www.thingiverse.com/thing:1814616 (Link eintragen)
-- Thing-ID: 1814616
-- Designer/Autor: Aep
+- Thingiverse: https://www.thingiverse.com/thing:7128536
+- Thing-ID: 7128536
+- Designer/Autor: miksic
 - Lizenz: Creative Commons - Attribution
 
 ## Was liegt im Repo?
